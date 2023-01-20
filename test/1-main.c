@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * main - Entry point
@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-    _printf("%S\n", "Holberton\nSchool");
+    _printf("%S\n", "Main\nSchool");
     return (0);
 }
